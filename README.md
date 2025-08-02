@@ -4,7 +4,7 @@
 This is a sleek, dark-themed personal portfolio site built with **pure HTML, CSS, and JS** — no frameworks. Designed for developers, cybersecurity experts, or students to **fork and customize** quickly.
 
 🔗 **Live Demo**:  
-https://wellz26.github.io/MyPortfolio1/
+https://wellz26.github.io/free-e-portfolio/
 
 ---
 
@@ -26,7 +26,7 @@ Click the top-right `Fork` button to copy this repo to your GitHub account.
 
 ### 2. **Clone It Locally**
 ```bash
-git clone git@github.com:Wellz26/MyPortfolio1.git my-portfolio
+git clone git@github.com:Wellz26/free-e-portfolio.git my-portfolio
 cd my-portfolio
 ```
 
