@@ -26,7 +26,7 @@ Click the top-right `Fork` button to copy this repo to your GitHub account.
 
 ### 2. **Clone It Locally**
 ```bash
-git clone git@github.com:your-username/MyPortfolio1.git my-portfolio
+git clone git@github.com:Wellz26/MyPortfolio1.git my-portfolio
 cd my-portfolio
 ```
 
@@ -56,4 +56,4 @@ DM me or open an issue — happy to assist.
 
 ---
 
-© 2025 Wellington Mukahiwa | Licensed MIT
+© 2025 Wellington Mukahiwa | Licensed 
